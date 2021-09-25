@@ -2,7 +2,7 @@ package com.kunal;
 
 public class Main {
     public static void main(String[] args) {
-        pattern31(4);
+        pattern30(4);
     }
 
     static void pattern31(int n) {

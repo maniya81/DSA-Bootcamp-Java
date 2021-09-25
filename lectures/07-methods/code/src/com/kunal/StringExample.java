@@ -10,8 +10,8 @@ public class StringExample {
 
         Scanner in  = new Scanner(System.in);
         System.out.print("Enter your name: ");
-        String naam = in.next();
-        String personalised = myGreet(naam);
+        String name = in.next();
+        String personalised = myGreet(name);
         System.out.println(personalised);
     }
 
