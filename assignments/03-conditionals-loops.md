@@ -1,11 +1,13 @@
 # [Video Link](https://youtu.be/ldYLYRNaucM)
-## Write Java programs for the following: 
+
+## Write Java programs for the following:
 
 ### Basic Java Programs
+
 1. Area Of Circle Java Program
 2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
+3. Area Of Rectangle Program
+4. Area Of Isosceles Triangle
 5. Area Of Parallelogram
 6. Area Of Rhombus
 7. Area Of Equilateral Triangle
@@ -26,16 +28,17 @@
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 23. Input a number and print all the factors of that number (use loops).
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
+    (HINT: while loop)
 25. Take integer inputs till the user enters 0 and print the largest number from
-all.
+    all.
 
 ### Intermediate Java Programs
+
 1. Factorial Program In Java
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
 4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
+5. Calculate Distance Between Two Points
 6. Calculate Commission Percentage
 7. Power In Java
 8. Calculate Depreciation of Value
@@ -48,11 +51,11 @@ all.
 15. Armstrong Number In Java
 16. Find Ncr & Npr
 17. Reverse A String In Java
-18. Find if a number is palindrome or not 
+18. Find if a number is palindrome or not
 19. Future Investment Value
 20. HCF Of Two Numbers Program
 21. LCM Of Two Numbers
-22. Java Program Vowel Or Consonant 
+22. Java Program Vowel Or Consonant
 23. Perfect Number In Java
 24. Check Leap Year Or Not
 25. Sum Of A Digits Of Number

@@ -3,9 +3,9 @@ package com.kunal;
 public class Main {
 
     public static void main(String[] args) {
-	    int[] nums = {23, 45, 1, 2, 8, 19, -3, 16, -11, 28};
+	    int[] numbs = {23, 45, 1, 2, 8, 19, -3, 16, -11, 28};
 	    int target = 19;
-	    boolean ans = linearSearch3(nums, target);
+	    boolean ans = linearSearch3(numbs, target);
         System.out.println(ans);
     }
 
