@@ -8,3 +8,5 @@
 - Mayank Singh's [solutions](https://github.com/mayankkuthar/DSA-with-JAVA)
 - Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Adarsh Navneet Sinha's [solutions](https://github.com/geeky01adarsh/DSA-Interview-Questions) (in C++)
+- Aditya Chauhan's [solution](https://github.com/aditya-2703/DSA)(Python)
+- Deepak Mittal's [solutions](https://github.com/yesdeepakmittal/competitive-coding/tree/main/Kunal-DSA-Py-Solution)(Python)
